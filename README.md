@@ -2,9 +2,7 @@
 
 - 👀 I’m interested in UI design and AI
 
-- 🌱 I’m currently learning ReactJS and Python
-
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 
 - 📫 You can mail me on sumit@sumitsharma.co.in
 
